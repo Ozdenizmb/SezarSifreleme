@@ -1,0 +1,21 @@
+C:\Users\w10\OneDrive\Masaüstü\SOFTWARE\Software Projects\Visual Studio (C# Form) Denemeleri\86. Sezar Sifreleme\86. Sezar Sifreleme\bin\Debug\_86.Sezar_Sifreleme.exe.config
+C:\Users\w10\OneDrive\Masaüstü\SOFTWARE\Software Projects\Visual Studio (C# Form) Denemeleri\86. Sezar Sifreleme\86. Sezar Sifreleme\bin\Debug\_86.Sezar_Sifreleme.exe
+C:\Users\w10\OneDrive\Masaüstü\SOFTWARE\Software Projects\Visual Studio (C# Form) Denemeleri\86. Sezar Sifreleme\86. Sezar Sifreleme\bin\Debug\_86.Sezar_Sifreleme.pdb
+C:\Users\w10\OneDrive\Masaüstü\SOFTWARE\Software Projects\Visual Studio (C# Form) Denemeleri\86. Sezar Sifreleme\86. Sezar Sifreleme\obj\Debug\86. Sezar Sifreleme.csprojResolveAssemblyReference.cache
+C:\Users\w10\OneDrive\Masaüstü\SOFTWARE\Software Projects\Visual Studio (C# Form) Denemeleri\86. Sezar Sifreleme\86. Sezar Sifreleme\obj\Debug\_86.Sezar_Sifreleme.Form1.resources
+C:\Users\w10\OneDrive\Masaüstü\SOFTWARE\Software Projects\Visual Studio (C# Form) Denemeleri\86. Sezar Sifreleme\86. Sezar Sifreleme\obj\Debug\_86.Sezar_Sifreleme.Properties.Resources.resources
+C:\Users\w10\OneDrive\Masaüstü\SOFTWARE\Software Projects\Visual Studio (C# Form) Denemeleri\86. Sezar Sifreleme\86. Sezar Sifreleme\obj\Debug\86. Sezar Sifreleme.csproj.GenerateResource.Cache
+C:\Users\w10\OneDrive\Masaüstü\SOFTWARE\Software Projects\Visual Studio (C# Form) Denemeleri\86. Sezar Sifreleme\86. Sezar Sifreleme\obj\Debug\_86.Sezar_Sifreleme.exe
+C:\Users\w10\OneDrive\Masaüstü\SOFTWARE\Software Projects\Visual Studio (C# Form) Denemeleri\86. Sezar Sifreleme\86. Sezar Sifreleme\obj\Debug\_86.Sezar_Sifreleme.pdb
+C:\Users\TOSHIBA\Desktop\SOFTWARE\Software Projects\Visual Studio (C# Form) Denemeleri\86. Sezar Sifreleme\86. Sezar Sifreleme\bin\Debug\_86.Sezar_Sifreleme.exe.config
+C:\Users\TOSHIBA\Desktop\SOFTWARE\Software Projects\Visual Studio (C# Form) Denemeleri\86. Sezar Sifreleme\86. Sezar Sifreleme\obj\Debug\_86.Sezar_Sifreleme.exe
+C:\Users\TOSHIBA\Desktop\SOFTWARE\Software Projects\Visual Studio (C# Form) Denemeleri\86. Sezar Sifreleme\86. Sezar Sifreleme\obj\Debug\_86.Sezar_Sifreleme.pdb
+C:\Users\TOSHIBA\Desktop\SOFTWARE\Software Projects\Visual Studio (C# Form) Denemeleri\86. Sezar Sifreleme\86. Sezar Sifreleme\bin\Debug\_86.Sezar_Sifreleme.exe
+C:\Users\TOSHIBA\Desktop\SOFTWARE\Software Projects\Visual Studio (C# Form) Denemeleri\86. Sezar Sifreleme\86. Sezar Sifreleme\bin\Debug\_86.Sezar_Sifreleme.pdb
+C:\Users\TOSHIBA\Desktop\SOFTWARE\Software Projects\Visual Studio (C# Form) Denemeleri\86. Sezar Sifreleme\86. Sezar Sifreleme\obj\Debug\86. Sezar Sifreleme.csprojResolveAssemblyReference.cache
+C:\Users\TOSHIBA\Desktop\SOFTWARE\Software Projects\Visual Studio (C# Form) Denemeleri\86. Sezar Sifreleme\86. Sezar Sifreleme\obj\Debug\_86.Sezar_Sifreleme.Form1.resources
+C:\Users\TOSHIBA\Desktop\SOFTWARE\Software Projects\Visual Studio (C# Form) Denemeleri\86. Sezar Sifreleme\86. Sezar Sifreleme\obj\Debug\_86.Sezar_Sifreleme.Properties.Resources.resources
+C:\Users\TOSHIBA\Desktop\SOFTWARE\Software Projects\Visual Studio (C# Form) Denemeleri\86. Sezar Sifreleme\86. Sezar Sifreleme\obj\Debug\86. Sezar Sifreleme.csproj.GenerateResource.Cache
+C:\Users\TOSHIBA\Desktop\Sezar Sifreleme\86. Sezar Sifreleme\bin\Debug\_86.Sezar_Sifreleme.exe.config
+C:\Users\TOSHIBA\Desktop\Sezar Sifreleme\86. Sezar Sifreleme\obj\Debug\_86.Sezar_Sifreleme.exe
+C:\Users\TOSHIBA\Desktop\Sezar Sifreleme\86. Sezar Sifreleme\obj\Debug\_86.Sezar_Sifreleme.pdb
